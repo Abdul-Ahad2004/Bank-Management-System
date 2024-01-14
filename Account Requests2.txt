@@ -1,0 +1,2 @@
+ABC company4,Lahore,23456,company4,44,50000,bronze
+ABC company5,Lahore,5678,company5,55,65000,bronze

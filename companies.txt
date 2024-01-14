@@ -1,0 +1,3 @@
+1,ABC company,Lahore,29373,companyabc,password204,50000,bronze,36000
+2,ABC company2,Lahore,29373,company2,22,50000,bronze,51000
+3,ABC company3,Lahore,23473,company3,33,50000,bronze,3800

@@ -1,0 +1,3 @@
+1,Ahmed Ali,03005800343,Johar Town Lahore,3520216339653,aliahmed284,alipassword,50000,bronze,65000
+2,Ahad,03005800343,canal garden,3520216339653,ahad,ahad,80000,bronze,16000
+3,Ali,03005800343,canal garden,3520216339654,ali,ali,80000,bronze,4000
